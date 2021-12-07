@@ -1,1 +1,12 @@
-# Exploration-of-the-California-Housing-Data-1990-Census
+# Exploration of the California Housing Data 1990 Census
+
+California. As a whole, it is a bubly and bustling state with a massive and diverse population to show for it. As an Ontario resident, due to the recent pandemic, we've seen a spike in house sales and house migration. As this has been happening, we wanted to go back in time to look at the people of California and see how the population was in relation to the housing market. <br /> 
+The datasets used are :  <br /> <br /> 
+  - Nugent, C. (2017). California Housing Prices (Version V1) [Data set]. Kaggle. https://www.kaggle.com/camnugent/california-housing-prices 
+  - U.S. Bureau of Labor Statistics, Unemployment Rate in California [CAUR], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/CAUR, December 3, 2021 
+  - U.S. Census Bureau, Rental Vacancy Rate for California [CARVAC], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/CARVAC, December 2, 2021.
+  - U.S. Federal Housing Finance Agency, All-Transactions House Price Index for California [CASTHPI], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/CASTHPI, December 2, 2021. 
+
+<br /><br />As explained previously, the questions we were out to solve directly dealt with the hosing market in relation to the population. However, while doing that, we stumbled on some data that opened our eyes into more topics. Some of those topics were location, population and even income. In one of our findings, we discovered that the majority of the population of California live in the city of Los Angeles. To some this may just be unneccessary information, but to us, we used the opportunity to visualize it on a map of the state. The reason this topic came to light was because the databehind it could help in a variety of ways, for example, Policy making, and creating solid infrastructure to aid the population and/or the population growth.
+
+<br /><br />In conclusion, all the goals set out for this project was met, and even surpassed them. We found comparisons and correlations between households,  income, housevalue and more. We utilitzed plots and graphs to visualize most of out findings when possible and we found more applications of how our findings could be used. Just like the motto says, we hope you join us at the end of this document in saying `Eureka (I have found it)`
